@@ -1,11 +1,14 @@
 # HelpfulHopeful
 Author: Nathaniel Root
+
 Purpose: for splitting up large UNSORTED CSV files based on a category.
 		For instance, if working with a file containing data on an entire state
 		you can run the data through this program and split it up based on county,
 		assuming you know which column that information is stored.
 
+
 Python version: 3.6
+
 
 How to run: if you have python 3 installed, you should be able to simply double click
 the file and the program prompts should initiate.
