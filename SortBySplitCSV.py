@@ -129,7 +129,7 @@ def splitter(filepath, output_path, delim=',', useHeaders = True, splitbycol = 0
 					print("")
 					print("Now working on: " + str(current_category) +".csv")
 				else:
-					#if the category is no in checkExisting, then a new file needs to be opened in write mode
+					#if the category is not in checkExisting, then a new file needs to be opened in write mode
 					#Determine if headers should be included
 					#add the category to checkExisting
 					currentOutPath = output_path + "\\" + str(current_category) + ".csv"
