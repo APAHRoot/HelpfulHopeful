@@ -5,7 +5,7 @@ import csv
 import time
 import operator
 
-#Author: Nathaniel Root
+#Author: NRoot
 #Purpose: for splitting up large UNSORTED CSV files based on a category.
 #		For instance, if working with a file containing data on an entire state
 #		you can run the data through this program and split it up based on county,
