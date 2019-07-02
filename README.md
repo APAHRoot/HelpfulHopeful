@@ -17,4 +17,6 @@ Run time: When run on 4.5 GB CSV, splitting into about 20 or so files, program e
 
 Haven't cleaned it up yet, so it's not as condensed as could be, but it will certainly get the job done.
 
+Referenced code by Jrivero at https://gist.github.com/jrivero/1085501 when writing this program
+
 Date modified: July 2, 2019
