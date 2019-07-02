@@ -18,7 +18,8 @@ import operator
 #
 #Run time: When run on 4.5 GB CSV, splitting into about 20 or so files, program execution took around 15-20 minutes.
 #
-#Used code by jrivero at https://gist.github.com/jrivero/1085501 as initial reference material
+#Used code by jrivero at https://gist.github.com/jrivero/1085501 as initial reference material who in turn was based off of
+#palewire's https://gist.github.com/palewire/596056/0f58641aba18979e9d5c1b918aeca623487fb599
 #
 #Date modified: July 2, 2019
 
