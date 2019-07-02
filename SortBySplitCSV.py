@@ -18,6 +18,8 @@ import operator
 #
 #Run time: When run on 4.5 GB CSV, splitting into about 20 or so files, program execution took around 15-20 minutes.
 #
+#Used code by jrivero at https://gist.github.com/jrivero/1085501 as initial reference material
+#
 #Date modified: July 2, 2019
 
 def main():
