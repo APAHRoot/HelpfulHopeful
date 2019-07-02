@@ -15,4 +15,6 @@ the file and the program prompts should initiate.
 
 Run time: When run on 4.5 GB CSV, splitting into about 20 or so files, program execution took around 15-20 minutes.
 
+Haven't cleaned it up yet, so it's not as condensed as could be, but it will certainly get the job done.
+
 Date modified: July 2, 2019
